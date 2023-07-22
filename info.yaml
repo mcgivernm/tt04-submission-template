@@ -22,7 +22,7 @@ yaml_version: 4
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
   author:       "Mike McGivern"      # Mike McGivern
-  title:        "Copy of Wokwi Dice"      # Copy of Wokwi Dice project  original  https://wokwi.com/projects/341315210433266259
+  title:        "Copy of Wokwi Dice"      #   Copy of Wokwi Dice project  original  https://wokwi.com/projects/341315210433266259
   language:     "Wokwi" # Wokwi
   description:  "just a test to see how long to generate GDS file"      # Y
 
